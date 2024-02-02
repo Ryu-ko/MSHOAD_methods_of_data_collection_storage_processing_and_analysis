@@ -1,0 +1,6 @@
+D:\Study\МСХОАД\лаба 10\Database1\bin\Debug\Database1.dacpac
+D:\Study\МСХОАД\лаба 10\Database1\bin\Debug\Database1.dll
+D:\Study\МСХОАД\лаба 10\Database1\bin\Debug\Database1.pdb
+D:\Study\МСХОАД\лаба 10\Database1\obj\Debug\Database1.sqlproj.AssemblyReference.cache
+D:\Study\МСХОАД\лаба 10\Database1\obj\Debug\Database1.dll
+D:\Study\МСХОАД\лаба 10\Database1\obj\Debug\Database1.pdb
